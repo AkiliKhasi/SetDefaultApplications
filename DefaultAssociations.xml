@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".htm" ProgId="htmlfile" ApplicationName="Internet Explorer" />
+  <Association Identifier=".html" ProgId="htmlfile" ApplicationName="Internet Explorer" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier="http" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
+  <Association Identifier="https" ProgId="IE.HTTPS" ApplicationName="Internet Explorer" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook" />
+</DefaultAssociations>
